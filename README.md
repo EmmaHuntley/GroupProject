@@ -14,7 +14,7 @@ Daniel Draper:
 
 Adam James:
 
-Liam Mason
+Liam Mason: https://www.youtube.com/watch?v=kNfE2um25xk When i think of cyber based game i kind of get the image of this game. The theme was cyber security and cyber crime i first thought this was just hacking but its also stuff like bullying over the internet so we could so some sort of shooter like this but the enemies could be different forms of cyber crime ie A bully sending a fb message, so if you look at that you tube video could be some sort of weird data enemy thing, can think of more but that's just a quick idea.
 
 Emma Huntley:
 
@@ -27,6 +27,6 @@ Daniel Draper:
 
 Adam James:
 
-Liam Mason
+Liam Mason: http://www.law.berkeley.edu/journals/btlj/articles/vol18/Skibell.web.pdf Skimmed through this has stuff liek the film war games and other examples of cyber crimes we can just reference.
 
 Emma Huntley:
