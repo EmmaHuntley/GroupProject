@@ -16,7 +16,7 @@ Adam James:
 
 Liam Mason: https://www.youtube.com/watch?v=kNfE2um25xk When i think of cyber based game i kind of get the image of this game. The theme was cyber security and cyber crime i first thought this was just hacking but its also stuff like bullying over the internet so we could so some sort of shooter like this but the enemies could be different forms of cyber crime ie A bully sending a fb message, so if you look at that you tube video could be some sort of weird data enemy thing, can think of more but that's just a quick idea.
 
-Emma Huntley:
+Emma Huntley: My idea is to theme another group members game on stuxnet or make a game a whole new game about it (will update more after a book gets delevered or more ideas come on this page)
 
 # Refrences / News Articles
 Jack Browne: 
@@ -29,4 +29,4 @@ Adam James:
 
 Liam Mason: http://www.law.berkeley.edu/journals/btlj/articles/vol18/Skibell.web.pdf Skimmed through this has stuff liek the film war games and other examples of cyber crimes we can just reference.
 
-Emma Huntley:
+Emma Huntley: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60961/uk-cyber-security-strategy-final.pdf  this is a gold mine of quotes for our document, WILL PUT BOOK HERE WHEN IT ARRIVES
