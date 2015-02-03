@@ -21,7 +21,7 @@ Emma Huntley: My idea is to theme another group members game on stuxnet or make 
 # Refrences / News Articles
 Jack Browne: 
 
-Lewis Catley: 
+Lewis Catley: http://cs.gmu.edu/~gaia/publications/cybersecurity.pdf - This paper explores game design for cybersecurity training, not sure if completely relevant.
 
 Daniel Draper: 
 
