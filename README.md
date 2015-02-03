@@ -8,7 +8,7 @@ CRG: https://blackboard.lincoln.ac.uk/bbcswebdav/pid-926868-dt-content-rid-18430
 # Ideas
 Jack Browne: 
 
-Lewis Catley: 
+Lewis Catley: Although this idea is very short, when I first heard of the brief I was thinking of ossibly an educational game to make children aware of what cyber crime is and how it can affect them, although im not to sure how to turn this into a game that would be much fun...
 
 Daniel Draper: 
 
