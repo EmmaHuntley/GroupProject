@@ -24,6 +24,7 @@ Jack Browne:
 Lewis Catley: http://cs.gmu.edu/~gaia/publications/cybersecurity.pdf - This paper explores game design for cybersecurity training, not sure if completely relevant.
 
 Daniel Draper: http://splashdata.com/press/worst-passwords-of-2014.htm - news that people still use bad passwords maybe an idea of where we could focus are game (Even BATMAN cant protect your pc).
+http://calhoun.nps.edu/bitstream/handle/10945/7148/07article_cciege.pdf?sequence=1 - paper on a Video Game for Cyber Security Training and Awareness.
 
 Adam James: i had a quick look at this it has lots of stats and lists cybercrimes, it may be usefull. http://www.sis.pitt.edu/jjoshi/courses/IS2150/Fall11/CSIsurvey2008.pdf
 
