@@ -10,7 +10,7 @@ Jack Browne:
 
 Lewis Catley: Although this idea is very short, when I first heard of the brief I was thinking of ossibly an educational game to make children aware of what cyber crime is and how it can affect them, although im not to sure how to turn this into a game that would be much fun...
 
-Daniel Draper: 
+Daniel Draper: A tower defence game where the player must stop waves of viruses / hacking attempts. Upgrades - show ways to reduce the risk e.g. stronger password - more set up time, better fire wall etc.
 
 Adam James:
 
@@ -23,7 +23,7 @@ Jack Browne:
 
 Lewis Catley: http://cs.gmu.edu/~gaia/publications/cybersecurity.pdf - This paper explores game design for cybersecurity training, not sure if completely relevant.
 
-Daniel Draper: 
+Daniel Draper: http://splashdata.com/press/worst-passwords-of-2014.htm - news that people still use bad passwords maybe an idea of where we could focus are game (Even BATMAN cant protect your pc).
 
 Adam James: i had a quick look at this it has lots of stats and lists cybercrimes, it may be usefull. http://www.sis.pitt.edu/jjoshi/courses/IS2150/Fall11/CSIsurvey2008.pdf
 
