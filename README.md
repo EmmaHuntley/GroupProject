@@ -18,7 +18,7 @@ Liam Mason: https://www.youtube.com/watch?v=kNfE2um25xk When i think of cyber ba
 
 Emma Huntley: My idea is to theme another group members game on stuxnet or make a game a whole new game about it (will update more after a book gets delevered or more ideas come on this page)
 
-# Refrences / News Articles
+# References / News Articles
 Jack Browne: 
 
 Lewis Catley: http://cs.gmu.edu/~gaia/publications/cybersecurity.pdf - This paper explores game design for cybersecurity training, not sure if completely relevant.
