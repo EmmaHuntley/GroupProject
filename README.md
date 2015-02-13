@@ -5,7 +5,7 @@ Members:
 Jack Browne =   
 Lewis Catley = Specialist   
 Daniel Draper = Team worker + co-ordinator  
-Adam James = Implementer + Team worker
+Adam James = Implementer + Team worker   
 Liam Mason = plant  
 Emma Huntley = co-ordinator + shaper  
 
