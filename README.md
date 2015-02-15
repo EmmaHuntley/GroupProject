@@ -31,6 +31,12 @@ software updates increase computer integrity stat
 A worm that moves around the board  
   
 #Introduction (Lewis)
+  (More to come)
+  The aim for this project is to ‘Create a game that generates awareness about cyber security and cyber-crime’. This aim is an appropriate direction to challenge the provided brief because there are now over 2 billion people that have access to the internet across over 5 billion devices (Office of Cyber Security, 2011, p.11.) such as; PC's, tablets, smart phones and even televisions.
+Within this connected digital age that we now live in comes a new type of criminal that pose a variety of threats. These criminals make use of sophisticated computer viruses which can steal personal information like bank and credit card details from a person’s computer, or something as simple as bullying across social networking sites. This can be a worry for every person that uses the internet, from government organisations to children who like to play online games.
+And yet with all this threat that comes from online criminals there is still a severe lack of online security and awareness like in users aged 15 -24 70% were less likely to use internet security on all devices (McGuire, M. Et al. (2013) Cybercrime: A review of the evidence, p.25). This evidence shows that on a large amount of devices that access the internet don’t have sufficient protection this information tied with “Less than one-half (43%) of internet security software users sought advice about different products.”(McGuire 2013) shows that people are not educated enough in regards to software that can protect them.
+
+  
   
 #Aims and objectives (Adam + All)
 Aim = To create a game that generates awareness about cyber security and cyber crime.  
