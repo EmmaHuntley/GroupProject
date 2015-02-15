@@ -64,9 +64,10 @@ Risk
 12. Conflict between team members
 13. Changing of objective 
 
-Risk\\Likelihood of occurrence\\Impact on the project \\Mitigation
+| Risk | Likelihood of occurrence | Impact on the project | Mitigation |
+| ------------------------------------------------ | ----------- | ---------- | ------------- |
 	
-1 - One or more of the team’s member become ill / are unable to complete the work. \\ 	Low \\ High \\ Missing team members work shared between remaining members 
+1 - One or more of the team’s member become ill | are unable to complete the work. | 	Low | High | Missing team members work shared between remaining members 
 
 2 – One or more members fails to complete their work \\	Low \\	High\\	Work is completed by the rest of the team together
 
