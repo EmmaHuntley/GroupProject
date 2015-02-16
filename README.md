@@ -55,7 +55,6 @@ Objectives:
 - Decide on game idea   
 - Decide on platform   
 - Decide on games engine   
-- Objectives
 - Draw concept art and designs
 - Choose sound assets
 - Design levels 
