@@ -45,7 +45,7 @@ With creating a game this provides a new opportunity to inform people about the 
 
   
     
-#Aims and objectives (Adam + All)
+#Aims and objectives (Adam)
 Aim = To create a game that generates awareness about cyber security and cyber crime.  
   
 Objectives:  
