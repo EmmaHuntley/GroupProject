@@ -55,18 +55,17 @@ Objectives:
 - Decide on game idea   
 - Decide on platform   
 - Decide on games engine   
-- Build game assets   
-- Design levels  
-- Build menus  
-- Build UI (user interface)  
-- Code game logic (buttons, timers, ect..)  
-- Code AI  
-- Code win/ lose condition  
-- Provide users information on types of cyber crime.  
-- Provide users information on how to avoid being affected by cyber crime   
-- Research common virus  
-- Show users the what being what virus and worms do  
-- Try to inform not scare  
+- Objectives
+- Draw concept art and designs
+- Choose sound assets
+- Design levels 
+- Code AI
+- Code scripts
+- Code event handling 
+- Design UI and menus
+- Implement UI and menus
+- Test game
+- Produce report
   
     
 #References (Emma)  
