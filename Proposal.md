@@ -168,16 +168,16 @@ Github- This is where we will store all the files needed for the project.
   
 #Appendix (Emma)  
     
-**Meeting 1 – 30/01/15  **
-**Members Present:   **
+<strong>Meeting 1 – 30/01/15</strong>
+<strong>Members Present:</strong>
 	Lewis Catley  
 	Daniel Draper  
 	Adam James  
 	Liam Mason  
 	Emma Huntley  
-**Missing Members:  **
+<strong>Missing Members:</strong>
 	Jack Browne  
-**Meeting Agenda:  **
+<strong>Meeting Agenda:</strong>
 Introductions   
 Contact details shared  
 Agreement on GitHub repository: https://github.com/EmmaHuntley/GroupProject  
@@ -186,17 +186,17 @@ Initial Tasks set for all members to be completed by 02/02/15
 Plans made to contact missing member and to contact group supervisor  
   
   
-**Meeting 2 – 10/02/15  **
-**Members Present:   **
+<strong>Meeting 2 – 10/02/15</strong>  
+<strong>Members Present:</strong>  
 	Oscar Mozos – Supervisor   
 	Lewis Catley  
 	Daniel Draper  
 	Adam James  
 	Liam Mason  
 	Emma Huntley  
-**Missing Members:  **
+<strong>Missing Members:</strong>  
 	Jack Browne  
-**Meeting Agenda:  **
+<strong>Meeting Agenda:</strong>  
 Update Oscar of previous meeting  
 Discuss all sections of the brief with Oscar  
 Agreement to complete a draft of the Group Proposal by 16/02/15 and send it to Oscar  
@@ -206,16 +206,16 @@ Agreement from Oscar to contact module co-ordinator about Appendix section queri
 Discuss the lack of response from Jack Browne  
   
     
-**Meeting 3 – 11/02/15  **
-**Members Present:  **
+<strong>Meeting 3 – 11/02/15</strong>  
+<strong>Members Present:</strong>  
 	Lewis Catley  
 	Daniel Draper  
 	Liam Mason  
 	Emma Huntley  
-**Missing Members:  **
+<strong>Missing Members:</strong>  
 	Jack Browne  
 	Adam James  
-**Meeting Agenda:  **
+<strong>Meeting Agenda:</strong>  
 Assign tasks to present members  
 -	Introduction to Lewis Catley  
 -	Related works to Emma Huntley  
@@ -229,17 +229,17 @@ Agreement on Game Idea
 Discuss each direction of task as a group   
   
   
-**Meeting 4 – 17/02/15  **
-**Members Present:  **
+<strong>Meeting 4 – 17/02/15</strong>  
+<strong>Members Present:</strong>  
 Oscar Mozos – Supervisor  
 	Lewis Catley  
 	Daniel Draper  
 	Adam James  
 	Liam Mason  
 	Emma Huntley  
-**Missing Members:  **
+<strong>Missing Members:</strong>  
 	Jack Browne  
-**Meeting Agenda: ** 
+<strong>Meeting Agenda:</strong>  
 Discuss the draft format  
 Receive Feedback on the Draft Proposal submitted to Oscar  
 Discuss Feedback off Oscar from module co-ordinator about Appendix  
