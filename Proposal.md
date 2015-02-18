@@ -168,16 +168,16 @@ Github- This is where we will store all the files needed for the project.
   
 #Appendix (Emma)  
     
-<strong>Meeting 1 – 30/01/15</strong>
-<strong>Members Present:</strong>
+<strong>Meeting 1 – 30/01/15</strong>  
+<strong>Members Present:</strong>  
 	Lewis Catley  
 	Daniel Draper  
 	Adam James  
 	Liam Mason  
 	Emma Huntley  
-<strong>Missing Members:</strong>
+<strong>Missing Members:</strong>  
 	Jack Browne  
-<strong>Meeting Agenda:</strong>
+<strong>Meeting Agenda:</strong>  
 Introductions   
 Contact details shared  
 Agreement on GitHub repository: https://github.com/EmmaHuntley/GroupProject  
@@ -229,7 +229,7 @@ Agreement on Game Idea
 Discuss each direction of task as a group   
   
   
-<strong>Meeting 4 – 17/02/15</strong>  
+<strong>Meeting 4 – 17/02/15</strong>   
 <strong>Members Present:</strong>  
 Oscar Mozos – Supervisor  
 	Lewis Catley  
