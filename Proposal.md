@@ -157,6 +157,51 @@ Github- This is where we will store all the files needed for the project.
 
 #Mark allocation (Emma)  
   
+ Marks should be distributed based on participation, the weighting of their task and quality of work produced. The following is a list detailing the tasks assigned and meeting attendance for each member.  
+  
+<strong>Jack Browne:  </strong>   
+<strong>Meetings attended:</strong> 0/4  
+<strong>Tasks Assigned and completed:</strong> None  
+  
+<strong>Lewis Catley:  </strong>  
+<strong>Meetings attended:</strong> 4/4  
+<strong>Tasks Assigned and completed: </strong>   
+Produce a Game Idea  
+Provide one reference or news article for initial research on topic  
+Write Introduction  
+  
+<strong>Daniel Draper: </strong>   
+<strong>Meetings attended:</strong> 4/4  
+<strong>Tasks Assigned and completed:  </strong>  
+Produce a Game Idea  
+Provide one reference or news article for initial research on topic  
+Produce Risk Matirx
+
+<strong>Adam James:  </strong>  
+<strong>Meetings attended:</strong> 3/4  
+<strong>Tasks Assigned and completed:  </strong>  
+Provide one reference or news article for initial research on topic  
+Write Aims and Objectives section  
+  
+<strong>Liam Mason:  </strong>  
+<strong>Meetings attended:</strong> 4/4  
+<strong>Tasks Assigned and completed:  </strong>  
+Produce a Game Idea  
+Provide one reference or news article for initial research on topic  
+Produce Gant Chart  
+Write Methods section  
+  
+<strong>Emma J Huntley:  </strong>  
+<strong>Meetings attended:</strong> 4/4  
+<strong>Tasks Assigned and completed:  </strong>  
+Produce a Game Idea  
+Provide one reference or news article for initial research on topic  
+Write Related Work section  
+Write the Appendix section  
+Write the Mark Allocation section   
+Produce the Proposal document to university standard  
+   
+      
 #Appendix (Emma)  
     
 <strong>Meeting 1 – 30/01/15</strong>  
