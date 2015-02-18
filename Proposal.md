@@ -46,9 +46,9 @@ With creating a game this provides a new opportunity to inform people about the 
   
     
 #Aims and objectives (Adam)
-Aim = To create a game that generates awareness about cyber security and cyber crime.  
-  
-Objectives:  
+Our aim is to Create a game that generates awareness about cyber security and cyber-crime
+
+The objectives to help us reach this aim are as follows: 
 -Research types of cyber crime and cyber security risks andreal events of cyber crime, and include real issues
 -Decide on game idea, a platform to put that game on, and which engine or tool kit to make it in.
 -Draw concept art and designs for levels
