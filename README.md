@@ -127,7 +127,7 @@ Risks
 | 10 - Conflicts happen between team members | Low | High | Form connections via a middle man, to allow work to continue or implement a voting system  |
 | 11 - Changing the objectives | Medium | Medium | Weight up the extra time need compared to the gains added to the project |
 | 12 - In-game bugs | High | Low - medium | If unable fix the problem, have another member look at the code |
-| 13 - Multi-platform incompatibilities  | Medium | Low | Choose the most relevant platform to continue working on |
+| 13 - Multi-platform incompatibilities  | Medium | Medium | Choose the most relevant platform to continue working on |
 
 
 
