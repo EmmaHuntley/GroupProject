@@ -139,6 +139,31 @@ didnt know how to put the actual file in so heres a link!
 https://www.dropbox.com/s/glo206s8qxwmb3v/Gant2.xls?dl=0
 updated!
 
+Methods
+
+Unity- This will be our main development tool in creating the game. Most of the game will be done in unity apart form a through assets.
+
+Maya/ 3DS max- These will be used if needed to make the model assets for the game.
+
+Audacity- This will be used to edit and audio we wish to implement into the game.
+
+Photoshop / Adobe- This may be needed for touch ups or edits of some assets.
+
+Microsfot word- This will be used to write the report in.
+
+Microsoft powerpoint- This will be used to make a presentation.
+
+Sony Vegas- This may be needed if we need to edit game play footage.
+
+Fraps- This will be used if we need to record the game play.
+
+Facebook- This will be used for communication between group members as all of us have the Facebook messenger app , this is useful for getting into contact quickly.
+
+Github- This is where we will store all the files needed for the project.
+
+
+(not sure how much detail was needed, that all the software i can think off too)
+
 #Mark allocation (all)  
   
 #Appendix (Emma)  
