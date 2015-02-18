@@ -164,7 +164,7 @@ Github- This is where we will store all the files needed for the project.
 
 (not sure how much detail was needed, that all the software i can think off too)
 
-#Mark allocation (all)  
+#Mark allocation (Emma)  
   
 #Appendix (Emma)  
     
