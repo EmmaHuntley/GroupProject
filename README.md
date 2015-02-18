@@ -167,4 +167,86 @@ Github- This is where we will store all the files needed for the project.
 #Mark allocation (all)  
   
 #Appendix (Emma)  
+    
+Meeting 1 – 30/01/15  
+Members Present:   
+	Lewis Catley  
+	Daniel Draper  
+	Adam James  
+	Liam Mason  
+	Emma Huntley  
+Missing Members:  
+	Jack Browne  
+Meeting Agenda:  
+Introductions   
+Contact details shared  
+Agreement on GitHub repository: https://github.com/EmmaHuntley/GroupProject  
+Team Leader elected   
+Initial Tasks set for all members to be completed by 02/02/15  
+Plans made to contact missing member and to contact group supervisor  
+  
+  
+Meeting 2 – 10/02/15  
+Members Present:   
+	Oscar Mozos – Supervisor   
+	Lewis Catley  
+	Daniel Draper  
+	Adam James  
+	Liam Mason  
+	Emma Huntley  
+Missing Members:  
+	Jack Browne  
+Meeting Agenda:  
+Update Oscar of previous meeting  
+Discuss all sections of the brief with Oscar  
+Agreement to complete a draft of the Group Proposal by 16/02/15 and send it to Oscar  
+Agreement on next meeting date 11/02/15  
+Agreement on next supervisory meeting date 17/02/15  
+Agreement from Oscar to contact module co-ordinator about Appendix section queries  
+Discuss the lack of response from Jack Browne  
+  
+    
+Meeting 3 – 11/02/15  
+Members Present:  
+	Lewis Catley  
+	Daniel Draper  
+	Liam Mason  
+	Emma Huntley  
+Missing Members:  
+	Jack Browne  
+	Adam James  
+Meeting Agenda:  
+Assign tasks to present members  
+-	Introduction to Lewis Catley  
+-	Related works to Emma Huntley  
+-	Risk Matrix to Daniel Draper  
+-	Gant chart to Liam Mason  
+Assign tasks to absent members pending confirmation  
+-	Aims and Objectives to Adam James  
+Agreement not to assign any tasks to Jack Browne due to Lack of contact   
+Set the Aim of the project as a group  
+Agreement on Game Idea  
+Discuss each direction of task as a group   
+  
+  
+Meeting 4 – 17/02/15  
+Members Present:  
+Oscar Mozos – Supervisor  
+	Lewis Catley  
+	Daniel Draper  
+	Adam James  
+	Liam Mason  
+	Emma Huntley  
+Missing Members:  
+	Jack Browne  
+Meeting Agenda:  
+Discuss the draft format  
+Receive Feedback on the Draft Proposal submitted to Oscar  
+Discuss Feedback off Oscar from module co-ordinator about Appendix  
+Set Corrections and Amendments for Draft Proposal  
+Agreement for Liam to write a Methods and Tools section  
+Agreement for Emma to write the Mark Allocation section  
+Agreement to send Oscar the final draft by 12pm on 18/02/15  
+Agreement for Emma Huntley to submit the Final Proposal to Blackboard before the deadline  
+  
   
