@@ -49,22 +49,13 @@ With creating a game this provides a new opportunity to inform people about the 
 Aim = To create a game that generates awareness about cyber security and cyber crime.  
   
 Objectives:  
-- Research types of cyber crime and cyber security risks.  
-- Include real issues  
-- Research real events of cyber crime   
-- Decide on game idea   
-- Decide on platform   
-- Decide on games engine   
-- Draw concept art and designs
-- Choose sound assets
-- Design levels 
-- Code AI
-- Code scripts
-- Code event handling 
-- Design UI and menus
-- Implement UI and menus
-- Test game
-- Produce report
+-Research types of cyber crime and cyber security risks andreal events of cyber crime, and include real issues
+-Decide on game idea, a platform to put that game on, and which engine or tool kit to make it in.
+-Draw concept art and designs for levels
+-Choose sound assets
+-Design levels and UI and Menus
+-Code AI, script, event handling, and Ui
+-Test game and Produce report
   
     
 #Related Work (Emma)  
